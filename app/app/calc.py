@@ -9,5 +9,5 @@ def add(x, y):
 
 
 def subtract(x, y):
-   """Subtract x from 7 and return the result"""
-   return y - x
+    """Subtract x from 7 and return the result"""
+    return y - x
